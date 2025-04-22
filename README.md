@@ -6,4 +6,4 @@ WASP-18b showed clear signatures of secondary eclipses. We also did uncertainty 
 
 WASP-19b could not help us to come at a significant conclusion as it's secondary eclipse was not significant.
 
-We further explored some of the poplular candiates like TOI-2119. It's secondary eclipse was visible clearly, but due to no clear presence of a 2nd secondary eclipse, the eccentricity estimation was not possible. But it was quite interesting to note the 48 hours shift in the secondary eclipse from the primary transit, while some chaotic nature of 2ns secondary eclipse on the right, but confident signature was not possible for the right one.
+We further explored some of the popular candidates like TOI-2119b. It's secondary eclipse was visible clearly, but due to no clear presence of a 2nd secondary eclipse, the eccentricity estimation using gap was not possible. But it was quite interesting to note the 48 hours shift in the secondary eclipse from the primary transit, while some chaotic nature of 2ns secondary eclipse on the right, but confident signature was not possible for the right one.
